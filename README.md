@@ -1,0 +1,2 @@
+# lynx
+Rust IRC bot
